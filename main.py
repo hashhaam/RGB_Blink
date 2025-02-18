@@ -30,3 +30,4 @@ while True:
         neo[0] = color  # Set the pixel to the current color
         neo.write()  # Apply the color change
         time.sleep(0.3)  # Wait for 0.3 seconds before changing color
+
